@@ -2,5 +2,5 @@
 Usage:
 ```bash
 pip install cookiecutter
-cookiecutter https://github.com/Windfarer/cookiecutter-kratos.git
+cookiecutter https://github.com/minicloudsky/cookiecutter-kratos.git
 ```
