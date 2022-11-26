@@ -7,7 +7,7 @@ import "google/api/annotations.proto";
 option go_package = "{{cookiecutter.module_name}}/api/{{cookiecutter.repo_name}}/v1;v1";
 option java_multiple_files = true;
 option java_package = "dev.kratos.api.{{cookiecutter.repo_name}}.v1";
-option java_outer_classname = "{{cookiecutter.module_name}}ProtoV1";
+option java_outer_classname = "{{cookiecutter.service_name}}ProtoV1";
 
 // The greeting service definition.
 service {{cookiecutter.service_name}} {
